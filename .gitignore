@@ -18,7 +18,7 @@ out/
 .idea
 gradle
 gradlew
-
+gradlew.bat
 ### Eclipse ###
 .apt_generated
 .classpath
